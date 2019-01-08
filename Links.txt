@@ -1,0 +1,15 @@
+    <p>I grew up in Northern Germany and attended the <a href='http://www.uni-kiel.de/'>Christian-Albrechts-Universität</a> in <a href='http://www.kiel.de/'>Kiel</a>, a harbor town at the Baltic sea. I received a M.S. in computer science from <a href='http://www.syr.edu/'>Syracuse University</a>, and a Ph.D. in mathematics from the <a href='http://www.umich.edu/'>University of Michigan</a> in Ann Arbor. For four years, I was VP and CTO of an Internet startup that went from 3 people in a tiny office to a public company. I now teach computer science at <a href='http://sjsu.edu/'>San Jose State University</a> and held visiting appointments at universities in Germany, Switzerland, Vietnam, and Macau. In my copious spare time I write books and articles on programming languages and computer science education.</p> 
+      <li><a href='http://www.sjsu.edu/people/cay.horstmann'>My SJSU course page</a></li> 
+      <li><a href='resume.html'>My resumé</a> </li> 
+    </ul> 
+      </li>
+      <li><a href='bigcpp/index.html'>Big C++</a> | <a href='bigcpp/index.html'>Brief C++</a> (former title: C++ for Everyone)</li> 
+      <li><a href='corejava/index.html'>Core Java</a></li> 
+      <li><a href='java8/index.html'>Java SE 8 for the Really Impatient</a></li> 
+      <li><a href='http://corejsf.com/'>Core JavaServer Faces</a></li> 
+      <li><a href='PracticalOO.html'>Practical Object-Oriented Development with C++ and Java</a></li> 
+      <li><a href='mcpp.html'>Mastering C++</a></li> 
+      <li>The <a href='http://gridworld.info'>GridWorld</a> framework was used in the AP CS course as a case study from 2008 until 2013.</li>
+      <li>The <a href='applets/RoadApplet/RoadApplet.html'>traffic jam simulator</a> applet simulates the traffic flow on a freeway and shows how traffic jams are inevitable even at modest loads if too many people don't maintain their speed.</li> 
+      <li><a href='cpp/pitfalls.html'>C++ Pitfalls</a></li> 
+    </ul> 
